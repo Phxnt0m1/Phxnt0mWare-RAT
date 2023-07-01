@@ -86,6 +86,10 @@
 **Supports:** *Windows 8+ (Tested on Windows 10).*
 <p align= "center">
    <kbd>
+   <img  src="https://cdn.discordapp.com/attachments/1124062630294855710/1124772527261093898/image.png">
+   </kbd><br><br>
+   <p align= "center">
+   <kbd>
    <img  src="https://cdn.discordapp.com/attachments/1124062630294855710/1124758989641629726/image.png">
    </kbd><br><br>
 
