@@ -16,7 +16,6 @@
    <img src="https://img.shields.io/github/issues-closed/Phxnt0m1/Phxnt0mWare">
    <br>
    <br>
-   <img src="https://repobeats.axiom.co/api/embed/3183aa00d01f8636a5cbc17344c36168eff93aec.svg">
 </p>
 
 ## Table of Contents
