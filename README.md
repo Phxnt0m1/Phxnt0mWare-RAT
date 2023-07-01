@@ -84,9 +84,14 @@
 | **UAC Bypass** | Tries to get administrator permissions without showing any prompt. |
 
 **Supports:** *Windows 8+ (Tested on Windows 10).*
+# Images
 <p align= "center">
    <kbd>
    <img  src="https://cdn.discordapp.com/attachments/1124062630294855710/1124772527261093898/image.png">
+   </kbd><br><br>
+   <p align= "center">
+   <kbd>
+   <img  src="https://cdn.discordapp.com/attachments/1124062630294855710/1124773313848295484/image.png">
    </kbd><br><br>
    <p align= "center">
    <kbd>
