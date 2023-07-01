@@ -25,7 +25,6 @@
 - [Stub Settings](#stub-settings)
 - [Requirements](#requirements)
 - [How to Build?](#how-to-build)
-- [Contact Me](#contact-me)
 
 ## Download
 
