@@ -5,15 +5,15 @@
    <kbd>
    <img  src="https://cdn.discordapp.com/attachments/1124107831247900796/1124725290443210822/Hotpot_3.png">
    </kbd><br><br>
-   <img src="https://img.shields.io/github/languages/top/Blank-c/Blank-Grabber">
+   <img src="https://img.shields.io/github/languages/top/Phxnt0m1/Phxnt0mWare">
    <img src="https://img.shields.io/github/stars/Phxnt0m1/Phxnt0mWare">
-   <img src="https://img.shields.io/github/forks/Blank-c/Blank-Grabber">
+   <img src="https://img.shields.io/github/forks/Phxnt0m1/Phxnt0mWare">
    <br>
-   <img src="https://img.shields.io/github/last-commit/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/license/Blank-c/Blank-Grabber">
+   <img src="https://img.shields.io/github/last-commit/Phxnt0m1/Phxnt0mWare">
+   <img src="https://img.shields.io/github/license/Phxnt0m1/Phxnt0mWare">
    <br>
-   <img src="https://img.shields.io/github/issues/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/issues-closed/Blank-c/Blank-Grabber">
+   <img src="https://img.shields.io/github/issues/Phxnt0m1/Phxnt0mWare">
+   <img src="https://img.shields.io/github/issues-closed/Phxnt0m1/Phxnt0mWare">
    <br>
    <br>
    <img src="https://repobeats.axiom.co/api/embed/3183aa00d01f8636a5cbc17344c36168eff93aec.svg">
