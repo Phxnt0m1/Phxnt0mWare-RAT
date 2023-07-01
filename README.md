@@ -6,7 +6,7 @@
    <img  src="https://cdn.discordapp.com/attachments/1124107831247900796/1124725290443210822/Hotpot_3.png">
    </kbd><br><br>
    <img src="https://img.shields.io/github/languages/top/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/stars/Blank-c/Blank-Grabber">
+   <img src="https://img.shields.io/github/stars/Phxnt0m1/Phxnt0mWare">
    <img src="https://img.shields.io/github/forks/Blank-c/Blank-Grabber">
    <br>
    <img src="https://img.shields.io/github/last-commit/Blank-c/Blank-Grabber">
