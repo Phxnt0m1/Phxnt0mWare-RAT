@@ -91,7 +91,7 @@
    </kbd><br><br>
    <p align= "center">
    <kbd>
-   <img  src="https://cdn.discordapp.com/attachments/1124062630294855710/1124773313848295484/image.png">
+   <img  src="https://cdn.discordapp.com/attachments/1124062630294855710/1124780228993101945/Untitled.png">
    </kbd><br><br>
    <p align= "center">
    <kbd>
