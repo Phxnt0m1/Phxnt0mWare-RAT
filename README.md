@@ -26,7 +26,6 @@
 - [Requirements](#requirements)
 - [How to Build?](#how-to-build)
 - [Contact Me](#contact-me)
-- [Support the Project](#support-the-project)
 
 ## Download
 
