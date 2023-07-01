@@ -86,7 +86,7 @@
 **Supports:** *Windows 8+ (Tested on Windows 10).*
 <p align= "center">
    <kbd>
-   <img  src="https://cdn.discordapp.com/attachments/1124107831247900796/1124725290443210822/Hotpot_3.png">
+   <img  src="https://cdn.discordapp.com/attachments/1124062630294855710/1124758989641629726/image.png">
    </kbd><br><br>
 
 ## Requirements
