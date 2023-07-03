@@ -18,7 +18,7 @@
    <br>
 </p>
 <p align= "center">
-   ## If u like this project, would you kindly star this?
+    If u like this project, would you kindly star this?
 </p>
 
    
