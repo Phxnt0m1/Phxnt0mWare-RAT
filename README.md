@@ -3,7 +3,7 @@
 </h1>
 <p align= "center">
    <kbd>
-   <img  src="https://cdn.discordapp.com/attachments/1124107831247900796/1124725290443210822/Hotpot_3.png">
+   <img  src="https://cdn.discordapp.com/attachments/1133491277145571492/1133511045198131251/Hotpot_3.png">
    </kbd><br><br>
    <img src="https://img.shields.io/github/languages/top/Phxnt0m1/Phxnt0mWare">
    <img src="https://img.shields.io/github/stars/Phxnt0m1/Phxnt0mWare">
