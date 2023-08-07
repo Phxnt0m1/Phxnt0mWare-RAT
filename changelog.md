@@ -22,4 +22,4 @@
 * Removed SSL certificate check in builder.
 * Fixed 'AttributeError' in Discord injection.
 * Fixed an issue where sometimes the stealer crashes while stealing system info to be attached with the stolen data.
-* Added Changelog.
+* added a changelog.
