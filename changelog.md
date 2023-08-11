@@ -1,7 +1,7 @@
 # Changelog
 ### 11/08/2023
 * Added Clash of clans sound on startup (idk why tbh i was boreed).
-* Fixed Phantom (used just gave u an error whe n starting the builder).
+* Fixed Phantom (used just gave u an error when starting the builder).
 ### 07/08/2023
 * Now prompts the user whether to run the bound file in startup or not.
 * Renames entry point (may break unpackers).
