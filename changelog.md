@@ -1,4 +1,6 @@
 # Changelog
+### 11/08/2023
+Added clash of clans sound on startup.(idk why tbh i was boreed
 ### 07/08/2023
 * Now prompts the user whether to run the bound file in startup or not.
 * Renames entry point (may break unpackers).
