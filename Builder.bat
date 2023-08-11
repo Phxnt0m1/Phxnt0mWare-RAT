@@ -40,6 +40,7 @@ if %errorlevel% neq 0 (
 
 cls
 title Starting builder...
+python sound.py #remove this line to remove my awesome clash of clans sound ong
 python gui.py
 if %errorlevel% neq 0 goto ERROR
 exit
