@@ -18,7 +18,7 @@
    <br>
 </p>
 <p align= "center">
-    If u like this project, would you kindly star this?
+    I stole this code Blank Grabber and possibly put a malware inside. Please go to the original repo!
 </p>
 
    
