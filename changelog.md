@@ -1,4 +1,6 @@
 # Changelog
+### 9/10/2023
+* Added Battle.Net session stealer
 ### 11/08/2023
 * Added Clash of clans sound on startup (idk why tbh i was boreed).
 * Fixed Phantom (used just gave u an error when starting the builder).
