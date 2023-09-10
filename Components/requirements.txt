@@ -1,5 +1,0 @@
-wheel
-tinyaes
-pyinstaller
-pyaesm
-urllib3
