@@ -1,6 +1,6 @@
 # Changelog
 ### 9/11/2023
-* Error Fixxed (builder stops working after first stub)
+* Error Fixxed (builder stops working after first stub).
 ### 9/10/2023
 * Added Battle.Net session stealer
 ### 11/08/2023
