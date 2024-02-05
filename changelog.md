@@ -1,6 +1,7 @@
 # Changelog
 ### 5/2/2024
 * All bugs has been fixed.
+* Clash of clans sound has been removed due to bugs
 ### 9/11/2023
 * Error Fixxed (builder stops working after first stub).
 ### 9/10/2023
