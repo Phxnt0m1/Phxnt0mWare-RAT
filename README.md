@@ -95,7 +95,7 @@
    </kbd><br><br>
    <p align= "center">
    <kbd>
-   <img  src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZNP5JkhokBvVPRntTj6jm3sfYrL3DPYBHVuhy97Uvhq3pxW1oK3Rfm_NSEL1kRnRUTbRJxOHiQ0tKcmHPlkH0KcAnOHA=s2560">
+   <img  src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZkr9bd33mFvIccydjXSgEbK_y8u9KOPT4Rjj21ya6KHTSGLxi-OZ2NKfaOUuCt7VR3-vDmaDoEXqmkRaJQLVGqwq07=s1600">
    </kbd><br><br>
    <p align= "center">
    <kbd>
