@@ -3,7 +3,7 @@
 </h1>
 <p align= "center">
    <kbd>
-   <img  src="https://cdn.discordapp.com/attachments/1133491277145571492/1133511045198131251/Hotpot_3.png">
+   <img  src="https://lh3.googleusercontent.com/drive-viewer/AKGpihaUMQ8U1920tp5hxO9wGkrHbrv7-ADG0pHDKAFyYMI4Nt-OrMhyomPkaqASwsrFcy0Vg8GbW7DbJlW2deV1ixW_7ejKGw=s2560">
    </kbd><br><br>
    <img src="https://img.shields.io/github/languages/top/Phxnt0m1/Phxnt0mWare">
    <img src="https://img.shields.io/github/stars/Phxnt0m1/Phxnt0mWare">
@@ -91,15 +91,14 @@
 # Images
 <p align= "center">
    <kbd>
-   <img  src="https://cdn.discordapp.com/attachments/1124062630294855710/1124772527261093898/image.png">
+   <img  src="https://lh3.googleusercontent.com/drive-viewer/AKGpihYRxA58bwBVwfI78rAg336o1rXmqfxQejGCupePBaWttpGVAz2qiS0w6iBogQvsa30cNfOY0fCa2M16OGNWtwfeU83v=s1600">
    </kbd><br><br>
    <p align= "center">
    <kbd>
-   <img  src="https://cdn.discordapp.com/attachments/1124062630294855710/1124780228993101945/Untitled.png">
+   <img  src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZNP5JkhokBvVPRntTj6jm3sfYrL3DPYBHVuhy97Uvhq3pxW1oK3Rfm_NSEL1kRnRUTbRJxOHiQ0tKcmHPlkH0KcAnOHA=s2560">
    </kbd><br><br>
    <p align= "center">
    <kbd>
-   <img  src="https://cdn.discordapp.com/attachments/1124062630294855710/1124758989641629726/image.png">
    </kbd><br><br>
 
 ## Requirements
