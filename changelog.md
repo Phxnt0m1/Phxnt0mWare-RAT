@@ -1,5 +1,12 @@
 # Changelog
-### 5/2/2024
+### 3/16/2024
+* Major update!
+* Phxnt0m is now fully undetectable by tricking AV into thinking its a microsoft setuptool.
+* New Compiler
+  <img  src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZgGRg1BdZps0xNuScZ9Bv9mW0PhSyfDA8BrO6z1cRFYhkClgBHmkTWD2W9EjVX1kiQ2CvEQr-pE2az6VhjcHLh5gnE=s2560">
+   </kbd><br><br>
+   <p align= "center">
+* ### 5/2/2024
 * All bugs has been fixed.
 * Clash of clans sound has been removed due to bugs
 ### 9/11/2023
