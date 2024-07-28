@@ -20,7 +20,7 @@
 <p align= "center">
     If u like this project, would you kindly star this?
 </p>
-
+## This project has been discontinued for now. and will be turned in to a RAT
    
 ## Table of Contents
 
