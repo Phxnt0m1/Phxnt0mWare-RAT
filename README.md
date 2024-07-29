@@ -111,6 +111,7 @@ Join our Telegram for more information and detailed building instructions.
 `.implode`</a> - remove PySilon from target PC and clean the "evidence"<br />
 `.clear`</a> - clear messages from file-related channel<br />
 
+BTW credits to pysilon for the baseplate!
 --------------------
 
 ### ToDo
@@ -123,3 +124,4 @@ List of features that should appear in following releases:
 - [ ] grab credit cards information
 - [ ] optional crypto mining (for example, when victim is idle)
 - [ ] grab sessions from popular applications (Steam/Minecraft/Metamask/Exodus/Roblox)
+-------------------
